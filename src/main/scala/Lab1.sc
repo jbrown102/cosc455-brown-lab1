@@ -4,5 +4,6 @@ println("Hello, Scala!")
 
 val day: Int = 1
 
+println("This is the new stuff")
 
 
